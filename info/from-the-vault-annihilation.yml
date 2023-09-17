@@ -1,0 +1,19 @@
+---
+object: set
+id: 21dd7ae2-1196-46d4-9acf-4ff9d82797be
+code: v14
+mtgo_code: v14
+arena_code: v14
+tcgplayer_id: 1475
+name: 'From the Vault: Annihilation'
+uri: https://api.scryfall.com/sets/21dd7ae2-1196-46d4-9acf-4ff9d82797be
+scryfall_uri: https://scryfall.com/sets/v14
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Av14&unique=prints
+released_at: '2014-08-22'
+set_type: from_the_vault
+card_count: 15
+printed_size: 15
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/v14.svg?1694404800
